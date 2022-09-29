@@ -41,16 +41,3 @@ void SelectionSort(string [] array)
 
 PrintArray(arr);
 SelectionSort(arr);
-
-
-    // for (int i=0; i<array.Length-1; i++)
-    // {
-    //     for (int j = 0; j < count+1; j++)
-    //     {
-    //     if (array[i].Length>=3)
-    //     {
-    //         arr2[j]=array[i];
-    //         Console.WriteLine(arr2[j]);
-    //     }
-    // }
-    // }
